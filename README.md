@@ -2,4 +2,4 @@
 
 All course files for the Firebase authentication tutorial series on The Net Ninja YouTube channel.
 
-https://youtu.be/mEF9WRwYDfY
+https://youtube.com/playlist?list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ
